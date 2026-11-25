@@ -1,0 +1,26 @@
+PODS:
+  - NosmaiCameraSDK (3.0.7)
+  - ZoomVideoSDK/util (2.6.15)
+  - ZoomVideoSDK/zContext (2.6.15)
+  - ZoomVideoSDK/ZoomTask (2.6.15)
+  - ZoomVideoSDK/ZoomVideoSDK (2.6.15)
+
+DEPENDENCIES:
+  - NosmaiCameraSDK (= 3.0.7)
+  - ZoomVideoSDK/util (= 2.6.15)
+  - ZoomVideoSDK/zContext (= 2.6.15)
+  - ZoomVideoSDK/ZoomTask (= 2.6.15)
+  - ZoomVideoSDK/ZoomVideoSDK (= 2.6.15)
+
+SPEC REPOS:
+  trunk:
+    - NosmaiCameraSDK
+    - ZoomVideoSDK
+
+SPEC CHECKSUMS:
+  NosmaiCameraSDK: b914cb19ea0f88faf537e726f0b09bfa20ba3bc7
+  ZoomVideoSDK: 4a042fd51b0de9e679c17084d9f025cae3b62aac
+
+PODFILE CHECKSUM: f2595fcfc3c986210501bb9db8970e2bfe75324d
+
+COCOAPODS: 1.17.0

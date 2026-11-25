@@ -1,0 +1,10 @@
+Pods/
+*.xcworkspace
+xcuserdata/
+DerivedData/
+.DS_Store
+/Configuration/*
+!/Configuration/Example.plist
+*.p12
+*.p8
+*.mobileprovision
